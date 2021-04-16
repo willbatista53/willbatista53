@@ -2,9 +2,7 @@
 
 #### Eu sou William
 
-:computer: Aprendendo Programação <br>
-
-#### Estou atualmente... :hammer:
+**Atualmente, estou...**
 
 :building_construction: Aprendendo Algorítmos <br>
 :computer: Estudando Python <br>
