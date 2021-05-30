@@ -5,4 +5,4 @@
 **Atualmente, estou...**
 
 :building_construction: Aprendendo Algorítmos <br>
-:computer: Estudando Python <br>
+:computer: Estudando Javascript <br>
